@@ -50,7 +50,7 @@ Hi there! I'm **Shivam Kumar Mahto**, an aspiring **Data Analyst** passionate ab
 I’m always open to discussions, collaborations, and new opportunities. Feel free to reach out:  
 
 - **Email:** shivammahto2105@gmail.com  
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/shivam-kumar-mahto-b7a84a311)  
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/shivam-kumar-mahto-b7a84a311)  
 
 ---
 
