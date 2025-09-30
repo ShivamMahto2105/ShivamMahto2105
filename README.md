@@ -25,26 +25,6 @@ Hi there! I'm **Shivam Kumar Mahto**, an aspiring **Data Analyst** passionate ab
 
 ---
 
-### 📂 My Projects
-
-- [**Data-Science-Projects**](#) – Collection of beginner-friendly and intermediate projects using Python & Jupyter Notebook  
-- [**SQL-Projects**](#) – SQL-based analytics projects demonstrating querying, joins, and reporting  
-- [**Excel-Dashboards-Basic**](#) – Excel dashboards for data visualization and business reporting  
-- [**Exploratory-Data_Analysis**](#) – EDA projects with Python for extracting insights from raw data  
-- [**PowerBI-Dashboards**](#) – Interactive dashboards created using Power BI  
-
----
-
-### 🎯 Goals
-
-- 📊 Gain practical experience with **real-world datasets** and business problems  
-- 🛠 Build **data-driven solutions and interactive dashboards**  
-- 📚 Enhance expertise in **Python, SQL, and Business Intelligence tools**  
-- 🤝 Collaborate with professionals on **analytics and data science projects**
-
----
-
-
 ### 🤝 Let's Connect!
 
 I’m always open to discussions, collaborations, and new opportunities. Feel free to reach out:  
