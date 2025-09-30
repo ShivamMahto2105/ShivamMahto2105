@@ -1,4 +1,5 @@
 Hey there! 👋
+
 I’m Shivam Kumar Mahto, an aspiring Data Analyst who loves turning raw data into meaningful insights. I enjoy working with SQL, Python, Excel, Power BI, and Tableau to clean, analyze, and visualize data that helps drive smarter decisions.
 
 Right now, I’m pursuing my Bachelor’s in Computer Science Engineering while building projects in data analysis, visualization, and exploratory data analysis. I’ve also been experimenting with databases like MySQL and PostgreSQL, and sharing my work here on GitHub.
