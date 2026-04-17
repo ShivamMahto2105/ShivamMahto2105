@@ -9,4 +9,4 @@ I like exploring data, building dashboards, and continuously learning new things
 
 Want to connect? 🤝
 Reach me at shivammahto2105@gmail.com
- or on ![LinkedIn!](https://www.linkedin.com/in/shivam-kumar-mahto-b7a84a311/)
+ or on [LinkedIn!](https://www.linkedin.com/in/shivam-kumar-mahto-b7a84a311/)
