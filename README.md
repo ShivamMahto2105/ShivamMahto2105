@@ -3,7 +3,7 @@
 Hey there! 👋
 I'm Shivam, an aspiring Data Analyst who loves turning raw data into meaningful insights 📊
 
-Currently pursuing B.Tech in CSE (Data Science & AI), I enjoy working with SQL, Python, Excel, Power BI, and Tableau ⚡
+Currently pursuing B.Tech in CSE (Data Science & AI), I enjoy working with SQL, Python, Excel, and Power BI ⚡
 
 I like exploring data, building dashboards, and continuously learning new things in data analytics and engineering 🚀
 
